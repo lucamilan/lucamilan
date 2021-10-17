@@ -11,7 +11,6 @@
 🌱 I’m currently speaking about:
 
 * Cloud Gen 2021 - Verona - Dapr and CQRS
-* DevOps Conference 2021 - Rome - Tye & Kubernetes
 * DotNetCode Community Meetup 2021 - Rome - Dapr and CQRS
 
 🔭 I’m currently working / interested on:
