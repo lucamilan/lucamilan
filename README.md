@@ -1,6 +1,6 @@
 ## Hi there, I'm Luca Milan 👋 💻
 
-### Development Manager and Technical Speaker
+### Software Development Manager and Passionate Speaker
 
 📫 How to reach me:
 
