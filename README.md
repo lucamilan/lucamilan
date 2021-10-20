@@ -8,10 +8,10 @@
 
 *Twitter*: https://twitter.com/fewbit
 
-🌱 I’m currently speaking about:
+🌱 Latest events:
 
-* Cloud Gen 2021 - Verona - Dapr and CQRS
-* DotNetCode Community Meetup 2021 - Rome - Dapr and CQRS
+* Dapr and CQRS - DotNetCode Community Meetup - November 2021 - Rome
+* Dapr and CQRS - Cloud Gen - September 2021 - Verona
 
 🔭 I’m currently working / interested on:
 
@@ -21,18 +21,3 @@
 * Soa Architecture (with IBM Stack)
 * Secure Identity Management (with IBM Stack OpenID Connect)
 * Automation Lover/Fan, regarding every single aspect of developer work
-
-<!--
-**lucamilan/lucamilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
